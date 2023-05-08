@@ -1,6 +1,7 @@
 ## Family Members Example
 
-Link: https://raw.githubusercontent.com/xposed73/datasets/main/family_members.json
+Raw JSON data
+https://raw.githubusercontent.com/xposed73/datasets/main/family_members.json
 
 ```json
 [
@@ -27,6 +28,7 @@ Link: https://raw.githubusercontent.com/xposed73/datasets/main/family_members.js
 
 ## Internet Slangs Example
 
+Raw JSON data
 https://raw.githubusercontent.com/xposed73/datasets/main/internet_slangs.json
 
 ```json
