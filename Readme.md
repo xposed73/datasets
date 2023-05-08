@@ -27,6 +27,8 @@ Link: https://raw.githubusercontent.com/xposed73/datasets/main/family_members.js
 
 ## Internet Slangs Example
 
+https://raw.githubusercontent.com/xposed73/datasets/main/internet_slangs.json
+
 ```json
 [
   {
