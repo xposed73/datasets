@@ -28,22 +28,28 @@
 ```json
 [
   {
-    "English": "Father",
-    "Urdu": "باپ / والد",
-    "Hindi": "पिता / बाप",
-    "Arabic": "أب / والد"
+    "Slang": 1337,
+    "Meaning": "Elite"
   },
   {
-    "English": "Mother",
-    "Urdu": "ماں / والدہ",
-    "Hindi": "माँ / माता",
-    "Arabic": "أم / والدة"
+    "Slang": "AFAIK",
+    "Meaning": "As Far As I Know"
   },
   {
-    "English": "Brother",
-    "Urdu": "بھائی / بھائی جان",
-    "Hindi": "भाई",
-    "Arabic": "أخ / أخي"
+    "Slang": "AFK",
+    "Meaning": "Away From Keyboard"
+  },
+  {
+    "Slang": "ASAP",
+    "Meaning": "As Soon As Possible"
+  },
+  {
+    "Slang": "ATM",
+    "Meaning": "At The Moment"
+  },
+  {
+    "Slang": "BAE",
+    "Meaning": "Before Anyone Else"
   }
 ]
 ```
